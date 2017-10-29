@@ -13,5 +13,5 @@
   
 + El archivo 'Trabajo Práctico - 2do Cuatrimestre 2017.pdf' contiene el enunciado completo del trabajo.
 
-+ El archivo AMIC.exe contiene el programa ejecutable. El mismo surge de realizar el correspondiente deploy and package desde el matlab, utilizando el código (AMIC.mlapp).
++ El archivo AMIC_web.exe contiene el instalador. El mismo, luego de ejecutarlo, instalará el programa y las libererías necesarias para poder lanzar y utilizar la applicación.
 
